@@ -1,0 +1,75 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+*.env
+*.venv
+
+# Pip and Poetry dependencies
+*.log
+pip-log.txt
+pip-delete-this-directory.txt
+poetry.lock
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.installed.cfg
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Database
+*.sqlite3
+*.db
+
+# AWS and cloud services credentials
+.aws/
+*.pem
+*.crt
+*.key
+
+# Docker
+.dockerignore
+docker-compose.override.yml
+
+# Logs and Debugging
+logs/
+*.log
+nohup.out
+debug.log
+
+# Cache and temp files
+*.cache
+*.pytest_cache/
+*.mypy_cache/
+.coverage
+
+# IDE-specific files
+*.swp
+*.swo
+*.bak
+.DS_Store
+Thumbs.db
+
+# Secrets and Configs
+.env
+.env.local
+.env.*.local
+secrets.json
+
+# Pytest and coverage reports
+htmlcov/
+.coverage*
+.pytest_cache/
