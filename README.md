@@ -17,8 +17,8 @@ Ensure you have the following installed:
 ## Installation
 ### 1. Clone the repository
 ```sh
-git clone https://github.com/your-repo/aws-cost-optimization.git
-cd aws-cost-optimization
+git clone https://github.com/XEqualTo/api.git
+cd api
 ```
 
 ### 2. Create and activate a virtual environment
